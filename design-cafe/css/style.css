@@ -137,7 +137,7 @@ section{
 .gallery{
     display: flex;
 }
-.gallery{
+.gallery img{
     width: 20%;
 }
 
@@ -171,7 +171,7 @@ iframe{
     background-color: #ffffff; 
     padding-bottom: 60px;
 }
-#footer_inner{
+.footer_inner{
     display: flex;
     justify-content: space-between;
     max-width: 1000px;
@@ -200,7 +200,7 @@ iframe{
     width: calc(100%-104px);
 }
 .copyright{
-    max-width: 1000pt;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
